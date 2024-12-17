@@ -1,0 +1,3 @@
+/home/andryanov_arseny/laba3/build/CMakeFiles/MyExecutable.dir
+/home/andryanov_arseny/laba3/build/CMakeFiles/edit_cache.dir
+/home/andryanov_arseny/laba3/build/CMakeFiles/rebuild_cache.dir
